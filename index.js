@@ -1,4 +1,4 @@
-const logger = require('./src/index')
+const { logger, warm } = require('./src/index')
 
 module.exports = {
     logger
